@@ -40,6 +40,16 @@ Para probar el proyecto:
 3.  Sincronizar el proyecto con Gradle.
 4.  Ejecutar en un emulador (API 26+) o dispositivo físico.
 
+## 📸 Capturas de pantalla
+
+Aquí se muestra el funcionamiento de la App:
+
+<div style="display: flex; gap: 10px;">
+  <img src="screenshots/Inicio_preview.png" width="200" alt="Pantalla Inicio">
+  <img src="screenshots/Consumo_preview.png" width="200" alt="Pantalla Consumo">
+  <img src="screenshots/Progreso_preview.png" width="200" alt="Pantalla Progreso">
+</div>
+
 ## Autor
 
 **Jaime Fontán**
